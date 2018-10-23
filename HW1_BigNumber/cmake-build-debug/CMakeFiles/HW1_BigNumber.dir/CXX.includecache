@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Jay/Desktop/HW1_BigNumber/Big_Number_Class.h
+
+/Users/Jay/Desktop/HW1_BigNumber/implementation_of_Big_Number_Class.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+Big_Number_Class.h
+/Users/Jay/Desktop/HW1_BigNumber/Big_Number_Class.h
+
